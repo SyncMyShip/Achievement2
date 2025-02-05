@@ -1,0 +1,14 @@
+1. Model Updates
+    - In Exercise 2.3 I had one app (recipes)
+        - This model displays recipe details including:
+            - name
+            - cooning_time
+            - ingredients
+            - difficulty
+            - comments (optional)
+
+
+2. Frontend Inspirations
+    - Cook Mate - https://www.cookmate.online/en/home/
+    - Recipe Sage - https://recipesage.com/#/welcome
+    
